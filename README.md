@@ -1,7 +1,7 @@
 # MHCompany
-theme: jekyll-theme-minimal
-title: MHGames의 개인정보처리방침
-description: 엠에이치게임즈의 개인정보처리방침을 알아보세요
+#theme: jekyll-theme-minimal
+#title: MHGames의 개인정보처리방침
+#description: 엠에이치게임즈의 개인정보처리방침을 알아보세요
 
 1. 개인정보의 처리 목적
    엠에이치게임즈(‘https://play.google.com/store/apps/dev?id=8290699567799906041’이하 ‘안드로이드 App’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.

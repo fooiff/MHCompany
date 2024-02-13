@@ -2,7 +2,7 @@
 
 [ENGLISH](https://fooiff.github.io/MHCompany.Privacy_en/)
 
-[SERVICE](https://fooiff.github.io/MHCompany.Service/)
+[서비스 이용약관](https://fooiff.github.io/MHCompany.Service/)
 
 １. 개인정보의 처리 목적
    

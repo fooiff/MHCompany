@@ -1,5 +1,8 @@
 # 개인정보처리방침
 
+[ENGLISH](https://fooiff.github.io/MHCompany.Privacy_en/)
+[SERVICE](https://fooiff.github.io/MHCompany.Service/)
+
 １. 개인정보의 처리 목적
    
    (‘ https://play.google.com/store/apps/dev?id=8290699567799906041 ’ 이하 ‘엠에이치게임즈’)는 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
